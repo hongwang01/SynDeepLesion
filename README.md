@@ -18,32 +18,36 @@ Network architectures
 ----------
 * [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="80%" width="90%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="70%" width="90%" alt=""/></div>
+
 
 * [InDuDoNet+](https://github.com/hongwang01/InDuDoNet_plus)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="80%" width="90%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="70%" width="90%" alt=""/></div>
+
 
 * [DICDNet](https://github.com/hongwang01/DICDNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/DICDNet/blob/main/figs/DICDNet.jpg" height="80%" width="90%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/DICDNet/blob/main/figs/DICDNet.jpg" height="70%" width="90%" alt=""/></div>
+
 
 * [ACDNet](https://github.com/hongwang01/ACDNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/ACDNet/blob/main/figs/model.jpg" height="80%" width="90%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/ACDNet/blob/main/figs/model.jpg" height="70%" width="90%" alt=""/></div>
+
 
 * [OSCNet](https://github.com/hongwang01/OSCNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/OSCNet/blob/main/Figures/intro.jpg" height="80%" width="90%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/OSCNet/blob/main/Figures/intro.jpg" height="70%" width="90%" alt=""/></div>
 
 
 ## Synthesized DeepLesion
 
--Clean CT Images: Download the [DeepLesion dataset](https://nihcc.app.box.com/v/DeepLesion)
--Simulation Protocol: Refer to [1][2] with the imaging parameters in [bulid_geometory.py](https://github.com/hongwang01/InDuDoNet/blob/main/deeplesion/build_gemotry.py)
--Training Data: Pairing 1000 clean images with 90 metals from [1]
--Testing Data: Pairing 200 clean CT images with 10 metals with sizes [2061, 890, 881, 451, 254, 124, 118, 112, 53, 35]
--DownLink: [NetDisk](https://pan.baidu.com/s/12R3i07emwa9iwONQbGzaYw) with pwd: dicd
+- Clean CT Images: Download the [DeepLesion dataset](https://nihcc.app.box.com/v/DeepLesion)
+- Simulation Protocol: Refer to [1][2] with the imaging parameters in [bulid_geometory.py](https://github.com/hongwang01/InDuDoNet/blob/main/deeplesion/build_gemotry.py)
+- Training Data: Pairing 1000 clean images with 90 metals from [1]
+- Testing Data: Pairing 200 clean CT images with 10 metals with sizes [2061, 890, 881, 451, 254, 124, 118, 112, 53, 35]
+- DownLink: [NetDisk](https://pan.baidu.com/s/12R3i07emwa9iwONQbGzaYw) with pwd: dicd
 
 
 ## Citation
@@ -106,13 +110,13 @@ If the dataset is heplpful for your research, please citation our related work:
 ```
 
 ## Acknowledgement
-The authors would like to thank [Dr. Lequan Yu](https://yulequan.github.io/) for providing the related reference code of generating the dataset.
+The authors would like to thank [Dr. Lequan Yu](https://yulequan.github.io/) for providing the related reference code.
 
 ## References
 
 [1] Y.   Zhang   and   H.   Yu,   “Convolutional   neural   network   based   metalartifact  reduction  in  X-ray  computed  tomography,”IEEE  Transactionson Medical Imaging, vol. 37, no. 6, pp. 1370–1381, 2018.
 
-[2] 
+[2] Yu, L., Zhang, Z., Li, X., Xing, L.: Deep sinogram completion with image prior for metal artifact reduction in CT images. IEEE Transactions on Medical Imaging40(1), 228–238 (2020).
 
 ## Contact
 If you have any question, please feel free to concat Hong Wang (Email: hongwang9209@hotmail.com)
