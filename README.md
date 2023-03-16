@@ -16,23 +16,23 @@ Network architectures
 ----------
 * [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="90%" width="100%" alt=""/></div>
 
 * [InDuDoNet+](https://github.com/hongwang01/InDuDoNet_plus)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="90%" width="100%" alt=""/></div>
 
 * [DICDNet](https://github.com/hongwang01/DICDNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/DICDNet/blob/main/figs/DICDNet.jpg" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/DICDNet/blob/main/figs/DICDNet.jpg" height="90%" width="100%" alt=""/></div>
 
 * [ACDNet](https://github.com/hongwang01/ACDNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/ACDNet/blob/main/figs/model.jpg" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/ACDNet/blob/main/figs/model.jpg" height="90%" width="100%" alt=""/></div>
 
 * [OSCNet](https://github.com/hongwang01/OSCNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/OSCNet/blob/main/Figures/intro.jpg" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/OSCNet/blob/main/Figures/intro.jpg" height="90%" width="100%" alt=""/></div>
 
 
 ## Dataset Description
