@@ -49,6 +49,7 @@ Network architectures
 - Testing Data: Pairing another 200 clean CT images with another 10 metals collected from [1] with sizes [2061, 890, 881, 451, 254, 124, 118, 112, 53, 35]
 - Download Link: [NetDisk](https://pan.baidu.com/s/12R3i07emwa9iwONQbGzaYw) with pwd: dicd
 - Please refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet/blob/main/deeplesion/Dataset.py) and [DICDNet](https://github.com/hongwang01/DICDNet/blob/main/dataset.py) for the data pre-processing.
+
 *If this dataset is helpful for your research, please cite our work.*
 
 ## Citation
