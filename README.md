@@ -16,11 +16,11 @@ Network architectures
 ----------
 * [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/tree/main/figs/net.png" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="100%" width="100%" alt=""/></div>
 
 * [InDuDoNet+](https://github.com/hongwang01/InDuDoNet_plus)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/tree/main/figs/priornet.jpg" height="100%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="100%" width="100%" alt=""/></div>
 
 * [DICDNet](https://github.com/hongwang01/DICDNet)
 
