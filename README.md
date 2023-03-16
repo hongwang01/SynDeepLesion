@@ -1,6 +1,8 @@
-# Synthesized DeepLesion for Metal Artifact Reduction
+# Metal Artifact Reduction for CT images
 
-This project 
+[Hong Wang](https://hongwang01.github.io/)
+
+*Senior Researcher, [Jarvis Lab@Tencent](https://jarvislab.tencent.com/), Shenzhen, China*
 
 ----------
 | Method | Domain | Original Link |
@@ -16,26 +18,32 @@ Network architectures
 ----------
 * [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="90%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet/blob/main/figs/net.png" height="80%" width="90%" alt=""/></div>
 
 * [InDuDoNet+](https://github.com/hongwang01/InDuDoNet_plus)
 
-<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="90%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/InDuDoNet_plus/blob/main/figs/priornet.jpg" height="80%" width="90%" alt=""/></div>
 
 * [DICDNet](https://github.com/hongwang01/DICDNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/DICDNet/blob/main/figs/DICDNet.jpg" height="90%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/DICDNet/blob/main/figs/DICDNet.jpg" height="80%" width="90%" alt=""/></div>
 
 * [ACDNet](https://github.com/hongwang01/ACDNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/ACDNet/blob/main/figs/model.jpg" height="90%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/ACDNet/blob/main/figs/model.jpg" height="80%" width="90%" alt=""/></div>
 
 * [OSCNet](https://github.com/hongwang01/OSCNet)
 
-<div  align="center"><img src="https://github.com/hongwang01/OSCNet/blob/main/Figures/intro.jpg" height="90%" width="100%" alt=""/></div>
+<div  align="center"><img src="https://github.com/hongwang01/OSCNet/blob/main/Figures/intro.jpg" height="80%" width="90%" alt=""/></div>
 
 
-## Dataset Description
+## Synthesized DeepLesion
+
+-Clean CT Images: Download the [DeepLesion dataset](https://nihcc.app.box.com/v/DeepLesion)
+-Simulation Protocol: Refer to [1][2] with the imaging parameters in [bulid_geometory.py](https://github.com/hongwang01/InDuDoNet/blob/main/deeplesion/build_gemotry.py)
+-Training Data: Pairing 1000 clean images with 90 metals from [1]
+-Testing Data: Pairing 200 clean CT images with 10 metals with sizes [2061, 890, 881, 451, 254, 124, 118, 112, 53, 35]
+-DownLink: [NetDisk](https://pan.baidu.com/s/12R3i07emwa9iwONQbGzaYw) with pwd: dicd
 
 
 ## Citation
@@ -99,6 +107,12 @@ If the dataset is heplpful for your research, please citation our related work:
 
 ## Acknowledgement
 The authors would like to thank [Dr. Lequan Yu](https://yulequan.github.io/) for providing the related reference code of generating the dataset.
+
+## References
+
+[1] Y.   Zhang   and   H.   Yu,   “Convolutional   neural   network   based   metalartifact  reduction  in  X-ray  computed  tomography,”IEEE  Transactionson Medical Imaging, vol. 37, no. 6, pp. 1370–1381, 2018.
+
+[2] 
 
 ## Contact
 If you have any question, please feel free to concat Hong Wang (Email: hongwang9209@hotmail.com)
