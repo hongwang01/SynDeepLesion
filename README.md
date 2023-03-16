@@ -47,8 +47,9 @@ Network architectures
 - Simulation Protocol: Refer to [1][2] with the imaging parameters in [bulid_geometory.py](https://github.com/hongwang01/InDuDoNet/blob/main/deeplesion/build_gemotry.py)
 - Training Data: Pairing 1000 clean images with 90 metals collected from [1]. Following [2], in each training iteration, we randomly chose one CT image with synthesized metal artifacts from the pool of 90 different metal mask pairs.
 - Testing Data: Pairing another 200 clean CT images with another 10 metals collected from [1] with sizes [2061, 890, 881, 451, 254, 124, 118, 112, 53, 35]
-- DownLink: [NetDisk](https://pan.baidu.com/s/12R3i07emwa9iwONQbGzaYw) with pwd: dicd
+- Download Link: [NetDisk](https://pan.baidu.com/s/12R3i07emwa9iwONQbGzaYw) with pwd: dicd
 
+*If this dataset is helpful for your research, please cite our work.*
 
 ## Citation
 
