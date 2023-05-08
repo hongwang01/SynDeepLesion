@@ -48,7 +48,7 @@ Network architectures
 - Simulation Tool: Python. 
 - Training Data: Pairing 1000 clean images with 90 metals collected from [1]. Following [2], in each training iteration, we randomly chose one CT image with synthesized metal artifacts from the pool of 90 different metal mask pairs
 - Testing Data: Pairing another 200 clean CT images with another 10 metals collected from [1] with sizes [2061, 890, 881, 451, 254, 124, 118, 112, 53, 35]
-- <a class="p1" target="_blank">Download Link: [NetDisk](https://pan.baidu.com/s/1Tu-vTrx7OYCr7eoRDoAgDw?pwd=dicd ) with pwd: dicd</a>
+- **Download Link: [NetDisk](https://pan.baidu.com/s/1Tu-vTrx7OYCr7eoRDoAgDw?pwd=dicd ) with pwd: dicd**
 - Please refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet/blob/main/deeplesion/Dataset.py) and [DICDNet](https://github.com/hongwang01/DICDNet/blob/main/dataset.py) for the data pre-processing
 - *If this dataset is helpful for your research, please cite our work.*
 
