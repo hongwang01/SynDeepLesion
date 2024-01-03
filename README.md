@@ -11,7 +11,7 @@
 | InDuDoNet+ (MedIA2023) | Dual-Domain | [https://github.com/hongwang01/InDuDoNet_plus](https://github.com/hongwang01/InDuDoNet_plus)|
 | DICDNet (TMI2021)| Image-Domain | [https://github.com/hongwang01/DICDNet](https://github.com/hongwang01/DICDNet)|
 | ACDNet (IJCAI2022) | Image-Domain | [https://github.com/hongwang01/ACDNet](https://github.com/hongwang01/ACDNet)|
-| OSCNet (MICCAI2022) | Image-Domain | [https://github.com/hongwang01/OSCNet](https://github.com/hongwang01/OSCNet)|
+| OSCNet (MICCAI2022, TMI2023) | Image-Domain | [https://github.com/hongwang01/OSCNet](https://github.com/hongwang01/OSCNet)|
 
 
 Network architectures
@@ -108,6 +108,15 @@ Network architectures
   pages={665--675},
   year={2022},
   organization={Springer}
+}
+```
+
+```
+@article{wang2023oscnet,
+  title={OSCNet: Orientation-Shared Convolutional Network for CT Metal Artifact Learning},
+  author={Wang, Hong and Xie, Qi and Zeng, Dong and Ma, Jianhua and Meng, Deyu and Zheng, Yefeng},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2023}
 }
 ```
 
