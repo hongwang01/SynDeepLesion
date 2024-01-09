@@ -125,9 +125,9 @@ The authors would like to thank [Dr. Lequan Yu](https://yulequan.github.io/) for
 
 ## References
 
-[1] Y.   Zhang   and   H.   Yu,   “Convolutional   neural   network   based   metalartifact  reduction  in  X-ray  computed  tomography,”IEEE  Transactionson Medical Imaging, vol. 37, no. 6, pp. 1370–1381, 2018.
+[1] Y.   Zhang   and   H.   Yu,   “Convolutional   neural   network   based   metal artifact  reduction  in  X-ray  computed  tomography,”IEEE Transactions on Medical Imaging, vol. 37, no. 6, pp. 1370–1381, 2018.
 
 [2] Yu, L., Zhang, Z., Li, X., Xing, L.: Deep sinogram completion with image prior for metal artifact reduction in CT images. IEEE Transactions on Medical Imaging40(1), 228–238 (2020).
 
 ## Contact
-If you have any question, please feel free to concat Hong Wang (Email: hongwang9209@hotmail.com)
+If you have any questions, please feel free to contact Hong Wang (Email: hongwang9209@hotmail.com)
